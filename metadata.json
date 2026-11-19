@@ -1,0 +1,6 @@
+{
+  "name": "Happy Colors – Color & Learn",
+  "description": "A joyful 3D cartoon kids coloring and bilingual (English + Urdu) learning studio with tap-to-fill coloring pages, A–Z alphabets, 1–20 counting, animals, fruits, interactive quizzes, artwork gallery, and star rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
